@@ -1,4 +1,5 @@
 {
     "version": "v6.1.5",
-    "changelog": "初始化版本更新"
+    "changelog": "修復部分遊戲功能，提升穩定性",
+    "url": "https://github.com/factorpubg/tr-launcher/releases/download/v6.1.5/Online.6.1.5.exe"
 }
