@@ -33,4 +33,4 @@
   * `!status`：即時回報目前程式狀態及截圖
 
 
-### Contact : **Discord** : `ethanvec`
+### Contact **Discord** : `ethanvec`
