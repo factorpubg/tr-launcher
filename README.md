@@ -31,3 +31,6 @@
 * 支援 Discord 指令開關自動點擊地圖：
   * `!map` / `!map on` / `!map off`
   * `!status`：即時回報目前程式狀態及截圖
+
+
+Contact : Discord:ethanvec
